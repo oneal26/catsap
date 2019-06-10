@@ -29,8 +29,8 @@ jobs:
           name: install gh-pages npm package
           command: |
             npm install -g --silent gh-pages
-            git config user.email "ci-build@roneal20"
-            git config user.name "ci-build"
+            git config user.email "ci-build@oneal26"
+            git config user.name "ci-build@"
       - run: 
           Name: Deploy static site to gh-pages branch
           command: gh-pages -t --dist __sapper__/export/
