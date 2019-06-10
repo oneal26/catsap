@@ -39,7 +39,7 @@
 <h1>Welcome to My Blog!</h1>
 
 <figure>
-	<img alt='Reed As A Cat' src='reedcat.png'>
+	<img alt='Reed As A Cat' src='../../static/reedcat.png'>
 	<figcaption><em>welcome!</em></figcaption>
 </figure>
 
