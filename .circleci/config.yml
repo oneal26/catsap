@@ -13,3 +13,53 @@ workflows:
     # Run the welcome/run job in its own container
     jobs:
       - welcome/run
+      build:
+        docker:
+          - image: node
+    steps:
+      - checkout
+      - run: 
+          name: build project
+          command: | 
+            npm install
+            npm run export
+            cp CNAME __sapper__/export/CNAME
+            cp -r .circleci/ __sapper__/export/.circleci/
+            cp __sapper__/export/404/index.html __sapper__/export/404.html
+      - persist_to_workspace:
+          root: __sapper__
+          paths: export/* 
+  deploy:
+    docker:
+      - image: node
+    steps:
+      - checkout
+      - attach_workspace:
+          at: __sapper__
+      - add_ssh_keys:
+          fingerprints:
+            - "62:3d:67:6d:07:d5:71:ca:40:b6:91:27:eb:33:d1:8c"
+      - run:
+          name: install gh-pages npm package
+          command: |
+            npm install -g --silent gh-pages
+            git config user.email "ci-build@lookoutitsa.ninja"
+            git config user.name "ci-build"
+      - run: 
+          Name: Deploy static site to gh-pages branch
+          command: gh-pages -t --dist __sapper__/export/
+
+workflows:
+  version: 2
+  main:
+    jobs:
+      - build:
+          filters:
+            branches:
+              only: master
+      - deploy:
+          requires:
+            - build
+          filters:
+            branches:
+              only: master
