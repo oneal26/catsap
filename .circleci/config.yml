@@ -11,7 +11,8 @@ jobs:
           command: | 
             npm install
             npm run export
-            cp -r .circleci/ __sapper__/export/.circleci/
+            #cp -r .circleci/ __sapper__/export/.circleci/
+            cp .
       - persist_to_workspace:
           root: __sapper__
           paths: export/* 
@@ -29,8 +30,8 @@ jobs:
           name: install gh-pages npm package
           command: |
             npm install -g --silent gh-pages
-            git config user.email "ci-build@roneal20@gmail.com"
-            git config user.name "ci-build@Reed"
+            git config user.email "ci-build@oneal26"
+            git config user.name "ci-build@"
       - run: 
           Name: Deploy static site to gh-pages branch
           command: gh-pages -t --dist __sapper__/export/
