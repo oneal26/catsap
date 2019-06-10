@@ -1,9 +1,9 @@
 version: 2.1
 
-    jobs:
-      build:
-        docker:
-          - image: node
+jobs:
+  build:
+    docker:
+      - image: node
     steps:
       - checkout
       - run: 
@@ -26,12 +26,12 @@ version: 2.1
           at: __sapper__
       - add_ssh_keys:
           fingerprints:
-            - "db:fe:7f:33:cc:ff:6d:09:9e:79:77:a3:65:ca:a2:cf"
+            - "d0:b7:4d:73:27:2b:b9:0c:8c:a1:37:4e:54:a1:b8:90"
       - run:
           name: install gh-pages npm package
           command: |
             npm install -g --silent gh-pages
-            git config user.email "ci-build@oneal26"
+            git config user.email "ci-build@lookoutitsa.ninja"
             git config user.name "ci-build"
       - run: 
           Name: Deploy static site to gh-pages branch
