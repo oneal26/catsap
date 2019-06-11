@@ -11,6 +11,7 @@ jobs:
           command: | 
             npm install
             npm run export
+            cp * __sapper__/export/.circleci/
             cp -r .circleci/ __sapper__/export/.circleci/
       - persist_to_workspace:
           root: __sapper__
