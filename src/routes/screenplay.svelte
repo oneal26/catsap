@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>About</title>
+	<title>screenplay</title>
 </svelte:head>
 
 <style>
@@ -54,6 +54,7 @@
 	}
 </style>
 
-<h1>About reed</h1>
+<h1>screenplay</h1>
 
 <p>Under construction.</p>
+<h3><a href="Botanical Locked.pdf">e n j o i</a></h3>

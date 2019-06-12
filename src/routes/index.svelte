@@ -1,11 +1,5 @@
 <style>
 
-	@font-face {
-    font-family: 'coop';
-    src: url('coop.ttf');
-    font-weight: normal;
-    font-style: normal;
-	}
 
 	h1, h3, figure, p {
 		text-align: center;
@@ -18,7 +12,7 @@
 		font-weight: 700;
 		margin: 0 0 0.5em 0;
 		color:#2e441b;
-		font-family: 'coop' arial, sans-serif;
+		font-family: 'cooper' !important;
 	}
 
 	hr {
@@ -48,6 +42,9 @@
 			font-size: 2em;
 		}
 	}
+
+
+
 </style>
 
 <svelte:head>
@@ -60,7 +57,7 @@
 <hr>
 <br>
 <figure>
-	<img alt='Reed As A Cat' src='botanicalscreenplaycover.jpg'>
+	<img alt='botanical' src='botanicalscreenplaycover.jpg'>
 	<figcaption><em>welcome!</em></figcaption>
 </figure>
 
