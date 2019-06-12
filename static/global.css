@@ -34,3 +34,11 @@ code {
 		font-size: 16px;
 	}
 }
+
+@font-face {
+    font-family: 'cooper';
+    src: url('fonts/coop.ttf') format('tff');
+    font-weight: normal;
+    font-style: normal;
+
+}
