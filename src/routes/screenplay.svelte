@@ -62,4 +62,4 @@
 <h1>screenplay</h1>
 
 <p>Under construction.</p>
-<p><a href="BotanicalLocked.pdf">e n j o i</a></p>
+<p><a href="pdf/BotanicalLocked.pdf">e n j o i</a></p>
