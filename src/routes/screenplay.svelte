@@ -6,14 +6,19 @@
 
 	@font-face {
     font-family: 'coop';
-    src: url('coop.ttf');
+    src: url('cooperregular.ttf');
     font-weight: normal;
     font-style: normal;
 	}
 
-	h1, h3, figure, p {
+	h1, h3, figure, p, a {
 		text-align: center;
 		margin: 0 auto;
+	}
+
+	a {
+		margin-left: auto;
+		margin-right: auto
 	}
 
 	h1 {
@@ -57,4 +62,4 @@
 <h1>screenplay</h1>
 
 <p>Under construction.</p>
-<h3><a href="Botanical Locked.pdf">e n j o i</a></h3>
+<a href="Botanical Locked.pdf">e n j o i</a>
