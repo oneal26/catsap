@@ -12,6 +12,11 @@ h1, h2, h3, h4, h5, h6 {
 	line-height: 1.2;
 }
 
+hr {
+	color:black;
+	border: .01em black solid;
+}
+
 h1 {
 	font-size: 2em;
 }
