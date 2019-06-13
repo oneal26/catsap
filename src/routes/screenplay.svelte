@@ -63,7 +63,7 @@
 
 <p>Under construction.</p>
 <p>
-	<a href="screenplay">e n j o i</a>
+	<a href="BotanicalLocked.pdf">e n j o i</a>
 	<br>
 	<object height="1000em" width="100%" data="BotanicalLocked.pdf" type="application/pdf"></object>
 </p>
