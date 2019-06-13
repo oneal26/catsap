@@ -58,9 +58,11 @@
 <br>
 <figure>
 	<img alt='botanical' src='botanicalscreenplaycover.jpg'>
-	<br>
-	<hr>
 	<figcaption><em></em></figcaption>
 </figure>
+<br>
+<hr>
+
+
 
 <p><strong></strong></p>
