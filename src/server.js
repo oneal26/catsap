@@ -9,7 +9,7 @@ const dev = NODE_ENV === 'development';
 polka() // You can also use Express
 	.use(
 		compression({ threshold: 0 }),
-		sirv('static/BotanicalLocked.pdf', { dev }),
+		sirv('static/pdf', { dev }),
 		sirv('static', { dev }),
 		sapper.middleware()
 	)
