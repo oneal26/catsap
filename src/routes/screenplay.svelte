@@ -63,7 +63,11 @@
 
 <p>Under construction.</p>
 <p>
+	<figure>
 	<a href="pdf/BotanicalLocked.pdf">e n j o i</a>
+	</figure>
 	<br>
-	<object height="1000em" width="100%" data="pdf/BotanicalLocked.pdf" type="application/pdf"></object>
+	<figure>
+	<object height="1000em" width="100%" data="pdf/BotanicalLocked.pdf" type="application/pdf" title="botanical"></object>
+	</figure>
 </p>
