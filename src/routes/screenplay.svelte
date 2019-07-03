@@ -64,10 +64,10 @@
 <p>Under construction.</p>
 <p>
 	<figure>
-	<a href="pdf/BotanicalLocked.pdf">e n j o i</a>
+	<a href="pdf/botanicalVert.pdf">e n j o i</a>
 	</figure>
 	<br>
 	<figure>
-	<object height="1000em" width="100%" data="pdf/BotanicalLocked.pdf" type="application/pdf" title="botanical"></object>
+	<object height="1000em" width="100%" data="pdf/botanicalVert.pdf" type="application/pdf" title="botanical"></object>
 	</figure>
 </p>
