@@ -68,6 +68,6 @@
 	</figure>
 	<br>
 	<figure>
-	<object height="1000em" width="100%" data="pdf/botanicalVert.pdf" type="application/pdf" title="botanical"></object>
+	<iframe height="1000em" width="100%" data="pdf/botanicalVert.pdf" type="application/pdf" title="botanical"></iframe>
 	</figure>
 </p>
