@@ -64,10 +64,8 @@
 <p>Under construction.</p>
 <p>
 	<figure>
-	<a href="pdf/botanicalVert.pdf">e n j o i</a>
+	<a href="https://drive.google.com/open?id=1wPcmr_44YwpIb0KcI-CjQj5rv00Fq577" target="_blank">e n j o i</a>
 	</figure>
 	<br>
-	<figure>
-	<iframe height="1000em" width="100%" data="pdf/botanicalVert.pdf" type="application/pdf" title="botanical"></iframe>
-	</figure>
+
 </p>
