@@ -56,4 +56,4 @@
 
 <h1>Visuals</h1>
 
-<p>Under construction.</p>
+<p>Coming S  o   o    n    .    .    .</p>
