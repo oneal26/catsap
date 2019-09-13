@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>About</title>
+	<title>visuals</title>
 </svelte:head>
 
 <style>
@@ -54,6 +54,6 @@
 	}
 </style>
 
-<h1>About reed</h1>
+<h1>Visuals</h1>
 
 <p>Under construction.</p>
