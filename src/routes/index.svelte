@@ -1,5 +1,9 @@
 <style>
 
+	hr {
+		color:black;
+		border: .01em black solid;
+	}
 
 	h1, h3, figure, p {
 		text-align: center;
@@ -13,11 +17,6 @@
 		margin: 0 0 0.5em 0;
 		color:#2e441b;
 		font-family: 'cooper' !important;
-	}
-
-	hr {
-		color:black;
-		border: .01em black solid;
 	}
 
 	figure {
@@ -54,14 +53,11 @@
 
 <h1>B O T A N I C A L</h1>
 <h3>9 / 17 / 2019</h3>
-<br>
 <hr>
-<br>
 <figure>
 	<img alt='botanical' src='botanicalscreenplaycover.jpg'>
 	<figcaption><em></em></figcaption>
 </figure>
-<br>
 <hr>
 
 
