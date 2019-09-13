@@ -58,7 +58,7 @@
 	}
 
 	@media (min-width: 480px) {
-		h1 {
+		h3 {
 			font-size: 4em;
 		}
 		h3 {
@@ -71,33 +71,35 @@
 	<title>jams</title>
 </svelte:head>
 
-<h1>1. Sunrise</h1>
-<h1>2. Been A While</h1>
-<h1>3. The Perfect Nap</h1>
-<h1>4. Fade</h1>
-<h1>5. Introspective</h1>
-<h1>6. Skyline</h1>
-<h1>7. Smoke</h1>
-<h1>8. Coffee @ Night </h1>
-<h1>9. End Of The World</h1>
-<h1>10. Feel Me</h1>
-<h1>11. Nightmare</h1>
-<h1>12. Mixed Feelings</h1>
-<h1>13. Familiar</h1>
-<h1>14. Kontaqt</h1>
-<h1>15. An Optimistic Letter</h1>
-<h1>16. Sunset</h1>
-<h1>17. Pick It Up</h1>
-<h1>18. Sea Glass [DRAFT]</h1>
-<h1>19. Wonderful</h1>
-<h1>20. Mirror</h1>
-<h1>21. End Of Summer</h1>
-<h1>22. Smile</h1>
-<h1>23. Timeless</h1>
-<h1>24. I.V.</h1>
-<h1>25. Space Static</h1>
-<h1>26. Raspberry</h1>
-<h1>27. Change</h1>
+<h1>Botanical Tracks</h1>
+<hr>
+<h3>1. Sunrise</h3>
+<h3>2. Been A While</h3>
+<h3>3. The Perfect Nap</h3>
+<h3>4. Fade</h3>
+<h3>5. Introspective</h3>
+<h3>6. Skyline</h3>
+<h3>7. Smoke</h3>
+<h3>8. Coffee @ Night </h3>
+<h3>9. End Of The World</h3>
+<h3>10. Feel Me</h3>
+<h3>11. Nightmare</h3>
+<h3>12. Mixed Feelings</h3>
+<h3>13. Familiar</h3>
+<h3>14. Kontaqt</h3>
+<h3>15. An Optimistic Letter</h3>
+<h3>16. Sunset</h3>
+<h3>17. Pick It Up</h3>
+<h3>18. Sea Glass [DRAFT]</h3>
+<h3>19. Wonderful</h3>
+<h3>20. Mirror</h3>
+<h3>21. End Of Summer</h3>
+<h3>22. Smile</h3>
+<h3>23. Timeless</h3>
+<h3>24. I.V.</h3>
+<h3>25. Space Static</h3>
+<h3>26. Raspberry</h3>
+<h3>27. Change</h3>
 <!-- 
 <ul>
 	{#each posts as post}
