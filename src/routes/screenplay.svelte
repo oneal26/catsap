@@ -69,7 +69,7 @@
 <p>
 	<figure>
 	<center>
-	<a href="https://drive.google.com/open?id=1U0XWfVPU3rC5ehqC_1T5lIaDTDsQJPFo">
+	<a href="https://drive.google.com/open?id=1U0XWfVPU3rC5ehqC_1T5lIaDTDsQJPFo" target="_blank">
 	<img src="baa.jpg" alt="enjoi" class="pix">
 	</a>
 	</center>
