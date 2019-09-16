@@ -61,30 +61,12 @@
 
 <h1>Botanical Tracks</h1>
 <hr>
-<h3>1. Sunrise</h3>
-<h3>2. Been A While</h3>
-<h3>3. The Perfect Nap</h3>
-<h3>4. Fade</h3>
-<h3>5. Introspective</h3>
-<h3>6. Skyline</h3>
-<h3>7. Smoke</h3>
-<h3>8. Coffee @ Night </h3>
-<h3>9. End Of The World</h3>
-<h3>10. Feel Me</h3>
-<h3>11. Nightmare</h3>
-<h3>12. Mixed Feelings</h3>
-<h3>13. Familiar</h3>
-<h3>14. Kontaqt</h3>
-<h3>15. An Optimistic Letter</h3>
-<h3>16. Sunset</h3>
-<h3>17. Pick It Up</h3>
-<h3>18. Sea Glass [DRAFT]</h3>
-<h3>19. Wonderful</h3>
-<h3>20. Mirror</h3>
-<h3>21. End Of Summer</h3>
-<h3>22. Smile</h3>
-<h3>23. Timeless</h3>
-<h3>24. I.V.</h3>
-<h3>25. Space Static</h3>
-<h3>26. Raspberry</h3>
-<h3>27. Change</h3>
+<h3>1. Change</h3>
+<h3>2. Introspective</h3>
+<h3>3. Stresssed</h3>
+<h3>4. End of the World</h3>
+<h3>5. Fade</h3>
+<h3>6. I.V.</h3>
+<h3>7. Wonderful</h3>
+<h3>8. Been A While</h3>
+<h3>9. Sunset</h3>
