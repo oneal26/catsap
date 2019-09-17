@@ -46,6 +46,13 @@
 		padding: 1em 0.5em;
 		display: block;
 	}
+		.icon{
+		height:2em;
+		width:2em;
+	}
+	.right{
+		float:right;
+	}
 </style>
 
 <nav>
@@ -54,5 +61,13 @@
 		<li><a rel=prefetch class='{segment === "jams" ? "selected" : ""}' href='jams'>/jams</a></li>
 		<li><a rel=prefetch class='{segment === "screenplay" ? "selected" : ""}' href='screenplay'>/screenplay</a></li>
 		<li><a class='{segment === "visuals" ? "selected" : ""}' href='visuals'>/visuals</a></li>
+
+		<!-- Right Nav Items -->
+		<li class="right"><a href="#"><img src="soundcloud.png" alt="SoundCloud" class="icon"></a></li>
+		<li class="right"><a href="#"><img src="tidal.jpg" alt="Tidal" class="icon"></a></li>
+		<li class="right"><a href="#"><img src="spotify.png" alt="Spotify" class="icon"></a></li>
+		<li class="right"><a href="#"><img src="apple.png" alt="Apple Music" class="icon"></a></li>
+
 	</ul>
+
 </nav>
