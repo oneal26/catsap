@@ -63,7 +63,7 @@
 		<li><a class='{segment === "visuals" ? "selected" : ""}' href='visuals'>/visuals</a></li>
 
 		<!-- Right Nav Items -->
-		<li class="right"><a href="#"><img src="soundcloud.png" alt="SoundCloud" class="icon"></a></li>
+		<li class="right"><a href="https://soundcloud.com/reedinbooks/sets/botanical-side-a"><img src="soundcloud.png" alt="SoundCloud" class="icon"></a></li>
 		<li class="right"><a href="#"><img src="tidal.jpg" alt="Tidal" class="icon"></a></li>
 		<li class="right"><a href="#"><img src="spotify.png" alt="Spotify" class="icon"></a></li>
 		<li class="right"><a href="#"><img src="apple.png" alt="Apple Music" class="icon"></a></li>
