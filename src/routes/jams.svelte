@@ -46,7 +46,7 @@
 	}
 
 	@media (min-width: 480px) {
-		h3 {
+		h1 {
 			font-size: 4em;
 		}
 		h3 {
