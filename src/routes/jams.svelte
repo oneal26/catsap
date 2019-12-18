@@ -74,3 +74,8 @@
 <h3>7. Wonderful</h3>
 <h3>8. Been A While</h3>
 <h3>9. Sunset</h3>
+
+<div>
+	<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/botanical-side-a/1480486916?app=music"></iframe>
+	<iframe src="https://open.spotify.com/embed/album/07Dpa9PyululGEdXbPTPij" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+</div>
