@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "file": "visuals.b79d4c7e.css",
+  "sources": [
+    "../../../../../../src/routes/visuals.svelte"
+  ],
+  "sourcesContent": [
+    "<svelte:head>\n\t<title>visuals</title>\n</svelte:head>\n\n<style>\n\n\t@font-face {\n    font-family: 'coop';\n    src: url('coop.ttf');\n    font-weight: normal;\n    font-style: normal;\n\t}\n\n\th1, h3, figure, p {\n\t\ttext-align: center;\n\t\tmargin: 0 auto;\n\t}\n\n\th1 {\n\t\tfont-size: 2.8em;\n\t\ttext-transform: uppercase;\n\t\tfont-weight: 700;\n\t\tmargin: 0 0 0.5em 0;\n\t\tcolor:#2e441b;\n\t\tfont-family: 'coop' arial, sans-serif;\n\t}\n\n\thr {\n\t\tcolor:black;\n\t\tborder: .01em black solid;\n\t}\n\n\tfigure {\n\t\tmargin: 0 0 1em 0;\n\t}\n\n\timg {\n\t\twidth: 100%;\n\t\tmax-width: 400px;\n\t\tmargin: 0 0 1em 0;\n\t}\n\n\tp {\n\t\tmargin: 1em auto;\n\t}\n\n\t@media (min-width: 480px) {\n\t\th1 {\n\t\t\tfont-size: 4em;\n\t\t}\n\t\th3 {\n\t\t\tfont-size: 2em;\n\t\t}\n\t}\n</style>\n\n<h1>Visuals</h1>\n\n<p>Coming S  o   o    n    .    .    .</p>"
+  ],
+  "names": [],
+  "mappings": "AAMC,WAAW,CAAC,AAKZ,CAAC,AAED,iBAAE,CAAc,CAAC,eAAC,CAAC,AAClB,UAAU,CAAE,MAAM,CAClB,MAAM,CAAE,CAAC,CAAC,IAAI,AACf,CAAC,AAED,EAAE,eAAC,CAAC,AACH,SAAS,CAAE,KAAK,CAChB,cAAc,CAAE,SAAS,CACzB,WAAW,CAAE,GAAG,CAChB,MAAM,CAAE,CAAC,CAAC,CAAC,CAAC,KAAK,CAAC,CAAC,CACnB,MAAM,OAAO,CACb,WAAW,CAAE,MAAM,CAAC,KAAK,CAAC,CAAC,UAAU,AACtC,CAAC,AAiBD,CAAC,eAAC,CAAC,AACF,MAAM,CAAE,GAAG,CAAC,IAAI,AACjB,CAAC,AAED,MAAM,AAAC,YAAY,KAAK,CAAC,AAAC,CAAC,AAC1B,EAAE,eAAC,CAAC,AACH,SAAS,CAAE,GAAG,AACf,CAAC,AAIF,CAAC"
+}
