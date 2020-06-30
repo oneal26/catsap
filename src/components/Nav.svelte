@@ -61,6 +61,7 @@
 		<li><a rel=prefetch class='{segment === "jams" ? "selected" : ""}' href='jams'>/jams</a></li>
 		<li><a rel=prefetch class='{segment === "screenplay" ? "selected" : ""}' href='screenplay'>/screenplay</a></li>
 		<li><a class='{segment === "visuals" ? "selected" : ""}' href='visuals'>/visuals</a></li>
+		<li><a class='{segment === "shop" ? "selected" : ""}' href='https://www.spacestationrecords.com/'>/shop</a></li>
 
 		<!-- Right Nav Items -->
 		<li class="right"><a href="https://soundcloud.com/reedinbooks/sets/botanical-side-a"><img src="soundcloud.png" alt="SoundCloud" class="icon"></a></li>
