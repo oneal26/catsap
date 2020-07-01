@@ -56,7 +56,19 @@
 </style>
 </svelte:head>
 
+<h1>B O T A N I C A L</h1>
+<h3>9 / 17 / 2019</h3>
+<hr>
+<figure>
+	<img alt='botanical' src='botanicalscreenplaycover.jpg'>
+	<figcaption><em></em></figcaption>
+</figure>
+<hr>
 
+
+
+
+<p><strong>もしもし！</strong></p>
 
 <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/d30b6cc5e52628bd07026a6e9/cfda6567d4c785d3750c2f1b8.js");</script>
 
@@ -92,21 +104,5 @@
 </div>
 
 <!--End mc_embed_signup-->
-
-<h1>B O T A N I C A L</h1>
-<h3>9 / 17 / 2019</h3>
-<hr>
-<figure>
-	<img alt='botanical' src='botanicalscreenplaycover.jpg'>
-	<figcaption><em></em></figcaption>
-</figure>
-<hr>
-
-
-
-
-<p><strong>もしもし！</strong></p>
-
-
 
 <iframe src="https://open.spotify.com/follow/1/?uri=spotify:artist:4tCGRoI7zhPtJvKoyZEJES?si=E5p9yV0PQuqv7GZeOmfD0w&size=basic&theme=light" width="200" height="25" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>
