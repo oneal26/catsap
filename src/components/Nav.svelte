@@ -51,14 +51,15 @@
 		width:2em;
 	}
 	.right{
-		float:right;
+		float: right;
+		margin-right:.5em;
 	}
 </style>
 
 <nav>
 	<ul>
 		<li><a class='{segment === undefined ? "selected" : ""}' href='.'>/home</a></li>
-		<li><a rel=prefetch class='{segment === "jams" ? "selected" : ""}' href='jams'>/jams</a></li>
+		<li><a rel=prefetch class='{segment === "jams" ? "selected" : ""}' href='jams'>/projects</a></li>
 		<li><a rel=prefetch class='{segment === "screenplay" ? "selected" : ""}' href='screenplay'>/screenplay</a></li>
 		<li><a class='{segment === "visuals" ? "selected" : ""}' href='visuals'>/visuals</a></li>
 		<li><a class='{segment === "shop" ? "selected" : ""}' href='https://www.spacestationrecords.com/'>/shop</a></li>
