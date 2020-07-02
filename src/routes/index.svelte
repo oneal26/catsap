@@ -125,8 +125,5 @@
 </form>
 </div>
 
-<!--End mc_embed_signup-->
-
-<iframe src="https://open.spotify.com/follow/1/?uri=spotify:artist:4tCGRoI7zhPtJvKoyZEJES?si=E5p9yV0PQuqv7GZeOmfD0w&size=basic&theme=light" width="200" height="25" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>
 
 </div>
