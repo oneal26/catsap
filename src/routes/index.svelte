@@ -48,9 +48,20 @@
 		}
 	}
 
+	form{
+		margin-right:auto;
+		margin-left: auto;
+	}
+
 
 	#rounded{
 		border-radius: 15%;
+	}
+
+	.box{
+		max-width: 58px;
+		margin-right: auto;
+		margin-left: auto;
 	}
 
 
