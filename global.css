@@ -4,7 +4,13 @@ body {
 	font-size: 14px;
 	line-height: 1.5;
 	color: #333;
+	background:#fdecd1 !important;
 }
+
+.bg{
+	background:#fdecd1 !important;
+}
+
 
 h1, h2, h3, h4, h5, h6 {
 	margin: 0 0 0.5em 0;
@@ -13,8 +19,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 hr {
-	color:black;
-	border: .01em black solid;
+	color:#fa4956;
+	border: .01em #fa4956 solid;
 }
 
 h1 {
