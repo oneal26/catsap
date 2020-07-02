@@ -3,8 +3,13 @@
 </script>
 
 <style>
+
+	.bg{
+	background:#fdecd1 !important;
+	}
+
 	nav {
-		border-bottom: 1px solid rgba(46, 68, 27,0.1);
+		border-bottom: 2px solid #304780;
 		font-weight: 300;
 		padding: 0 1em;
 	}
@@ -36,7 +41,7 @@
 		content: '';
 		width: calc(100% - 1em);
 		height: 2px;
-		background-color: #2e441b;
+		background-color: #67517f;
 		display: block;
 		bottom: -1px;
 	}
@@ -56,7 +61,7 @@
 	}
 </style>
 
-<nav>
+<nav class="bg">
 	<ul>
 		<li><a class='{segment === undefined ? "selected" : ""}' href='.'>/home</a></li>
 		<li><a rel=prefetch class='{segment === "jams" ? "selected" : ""}' href='jams'>/projects</a></li>

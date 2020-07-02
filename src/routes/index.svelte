@@ -1,8 +1,12 @@
 <style>
 
+	.bg{
+			background:#fdecd1 !important;
+	}
+
 	hr {
-		color:black;
-		border: .01em black solid;
+	color:#2b2236;
+	border: .01em #2b2236 solid;
 	}
 
 	h1, h3, figure, p {
@@ -20,13 +24,15 @@
 	}
 
 	figure {
-		margin: 0 0 1em 0;
+		
 	}
 
 	img {
 		width: 100%;
 		max-width: 400px;
-		margin: 0 0 1em 0;
+		margin-right: auto;
+		margin-left: auto;
+		display:block;
 	}
 
 	p {
@@ -43,6 +49,10 @@
 	}
 
 
+	#rounded{
+		border-radius: 15%;
+	}
+
 
 </style>
 
@@ -56,44 +66,45 @@
 </style>
 </svelte:head>
 
-<h1>B O T A N I C A L</h1>
-<h3>9 / 17 / 2019</h3>
-<hr>
-<figure>
-	<img alt='botanical' src='botanicalscreenplaycover.jpg'>
-	<figcaption><em></em></figcaption>
-</figure>
+<!-- <h1>Berri Boi</h1> -->
+<div class="bg">
 <hr>
 
+	
+	<img alt='berri boi' src='IMG_3007.GIF' id="rounded">
+
+
+<hr>
 
 
 
-<p><strong>もしもし！</strong></p>
 
+<p><strong>ベリボイ</strong></p>
+<p><strong>９月２０２０</strong></p>
 <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/d30b6cc5e52628bd07026a6e9/cfda6567d4c785d3750c2f1b8.js");</script>
 
 
 <!-- Begin Mailchimp Signup Form -->
 
 <div id="mc_embed_signup">
-<form action="https://reedinbooks.us10.list-manage.com/subscribe/post?u=d30b6cc5e52628bd07026a6e9&amp;id=636a89b322" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="https://reedinbooks.us10.list-manage.com/subscribe/post?u=d30b6cc5e52628bd07026a6e9&amp;id=636a89b322" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate bg" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<h2>Get Early Access to new releases!</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group">
+<div class="mc-field-group bg">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
 </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
-<div class="mc-field-group">
+<div class="mc-field-group bg">
 	<label for="mce-FNAME">First Name </label>
 	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
 </div>
-<div class="mc-field-group">
+<div class="mc-field-group bg">
 	<label for="mce-LNAME">Last Name </label>
 	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
 </div>
-<div id="mce-responses" class="clear">
+<div id="mce-responses" class="clear bg">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
@@ -106,3 +117,5 @@
 <!--End mc_embed_signup-->
 
 <iframe src="https://open.spotify.com/follow/1/?uri=spotify:artist:4tCGRoI7zhPtJvKoyZEJES?si=E5p9yV0PQuqv7GZeOmfD0w&size=basic&theme=light" width="200" height="25" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>
+
+</div>

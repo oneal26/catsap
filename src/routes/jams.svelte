@@ -64,7 +64,7 @@
 	<title>jams</title>
 </svelte:head>
 
-<h1>Botanical Tracks</h1>
+<h1>Botanical [Side A]</h1>
 <hr>
 <h3>1. Change</h3>
 <h3>2. Introspective</h3>
