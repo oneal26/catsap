@@ -49,6 +49,7 @@
 	}
 
 	form{
+		max-width: 20px !important;
 		margin-right:auto;
 		margin-left: auto;
 		margin-bottom:5em;
@@ -60,7 +61,7 @@
 	}
 
 	.box{
-		max-width: 58px;
+		max-width: 58px !important;
 		margin-right: auto;
 		margin-left: auto;
 	}
@@ -99,7 +100,7 @@
 <!-- Begin Mailchimp Signup Form -->
 
 <div id="mc_embed_signup">
-<form action="https://reedinbooks.us10.list-manage.com/subscribe/post?u=d30b6cc5e52628bd07026a6e9&amp;id=636a89b322" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate bg" target="_blank" novalidate>
+	<form action="https://reedinbooks.us10.list-manage.com/subscribe/post?u=d30b6cc5e52628bd07026a6e9&amp;id=636a89b322" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate bg" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<h2>Get Early Access to new releases!</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
@@ -125,6 +126,4 @@
     </div>
 </form>
 </div>
-
-
 </div>

@@ -21,7 +21,7 @@
 		text-transform: uppercase;
 		font-weight: 700;
 		margin: 0 0 0.5em 0;
-		color:#2e441b;
+		color:#67517f;
 		font-family: 'coop' arial, sans-serif;
 	}
 
@@ -52,8 +52,24 @@
 			font-size: 2em;
 		}
 	}
+
+	.imgbox{
+		margin-right: auto;
+		margin-left: auto;
+		display:block;
+	}
+
+	.rounded{
+		border-radius: 5% !important;
+		margin-bottom:3em;
+	}
+
 </style>
 
 <h1>Visuals</h1>
-
-<p>Coming S  o   o    n    .    .    .</p>
+<hr>
+<img src="IMG_3007.GIF" alt="JAMBERRI" class="imgbox">
+<hr>
+<img src="marketberri.png" alt="MARKETBERRI" class="imgbox">
+<hr>
+<img src="IMG_3010.png" alt="JAMBERRI" class="imgbox rounded">
