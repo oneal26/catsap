@@ -49,7 +49,6 @@
 	}
 
 	form{
-		max-width: 20px !important;
 		margin-right:auto;
 		margin-left: auto;
 		margin-bottom:5em;
@@ -61,7 +60,6 @@
 	}
 
 	.box{
-		max-width: 58px !important;
 		margin-right: auto;
 		margin-left: auto;
 	}
