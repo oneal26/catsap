@@ -72,4 +72,4 @@
 <hr>
 <img src="marketberri.png" alt="MARKETBERRI" class="imgbox">
 <hr>
-<img src="IMG_3010.png" alt="JAMBERRI" class="imgbox rounded">
+<img src="IMG_3010.png" alt="VINEBERRI" class="imgbox rounded">
