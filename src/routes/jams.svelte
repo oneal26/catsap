@@ -58,12 +58,30 @@
 		height:1em;
 		width:1em;
 	}
+
+	#berri{
+		color:#67517f;
+	}
 </style>
 
 <svelte:head>
-	<title>jams</title>
+	<title>/projects</title>
 </svelte:head>
 
+
+<h1 id="berri">berri boi</h1>
+<hr>
+<h3>1. berri boi</h3>
+<h3>2. SSRTID</h3>
+<h3>3. ISNW</h3>
+<h3>4. FLEXberri</h3>
+<h3>5. sight</h3>
+<h3>6. running away</h3>
+<h3>7. buggin</h3>
+<h3>8. 90s freestyle</h3>
+<h3>9. wow</h3>
+<h3>10. Silk freestyle</h3>
+<hr>
 <h1>Botanical [Side A]</h1>
 <hr>
 <h3>1. Change</h3>
@@ -78,7 +96,9 @@
 
 <center>
 <div>
-	<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/botanical-side-a/1480486916?app=music"></iframe>
 	<iframe src="https://open.spotify.com/embed/album/07Dpa9PyululGEdXbPTPij" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+	<br>
+	<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/botanical-side-a/1480486916?app=music"></iframe>
+
 </div>
 </center>

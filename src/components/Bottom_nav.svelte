@@ -59,6 +59,11 @@
 		float: right;
 		margin-right:.5em;
 	}
+
+	iframe{
+		
+	}
+
 </style>
 
 <nav class="fixed-bottom bg">

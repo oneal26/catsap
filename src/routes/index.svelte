@@ -64,6 +64,10 @@
 		margin-left: auto;
 	}
 
+	.button:hover{
+		background: #4e415c !important;
+	}
+
 
 </style>
 
@@ -80,27 +84,16 @@
 <!-- <h1>Berri Boi</h1> -->
 <div class="bg">
 <hr>
-
-	
 	<img alt='berri boi' src='IMG_3007.GIF' id="rounded">
-
-
 <hr>
-
-
-
-
 <p><strong>ベリボイ</strong></p>
 <p><strong>９月２０２０</strong></p>
 <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/d30b6cc5e52628bd07026a6e9/cfda6567d4c785d3750c2f1b8.js");</script>
-
-
 <!-- Begin Mailchimp Signup Form -->
-
 <div id="mc_embed_signup">
 	<form action="https://reedinbooks.us10.list-manage.com/subscribe/post?u=d30b6cc5e52628bd07026a6e9&amp;id=636a89b322" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate bg" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Get Early Access to new releases!</h2>
+	<h2>Get discounts on merch & early access to new releases!</h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group bg">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
