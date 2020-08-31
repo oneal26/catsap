@@ -71,16 +71,13 @@
 
 <h1 id="berri">berri boi</h1>
 <hr>
-<h3>1. berri boi</h3>
-<h3>2. SSRTID</h3>
-<h3>3. ISNW</h3>
-<h3>4. FLEXberri</h3>
-<h3>5. sight</h3>
-<h3>6. running away</h3>
-<h3>7. buggin</h3>
-<h3>8. 90s freestyle</h3>
-<h3>9. wow</h3>
-<h3>10. Silk freestyle</h3>
+<h3>1. Berri Boi</h3>
+<h3>2. Flexberri</h3>
+<h3>3. @Home</h3>
+<h3>4. Wow</h3>
+<h3>5. Silk</h3>
+<h3>6. Buggin</h3>
+<h3>7. Runnin Away</h3>
 <hr>
 <h1>Botanical [Side A]</h1>
 <hr>
